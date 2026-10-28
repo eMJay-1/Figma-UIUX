@@ -50,9 +50,7 @@ The project is organized into the following stages:
 
 ## 🔗 Project Link
 
-[View the Empathy Map — Quick-Connect Project on Figma]([https://www.figma.com/](https://www.figma.com/design/ioihttMUPWmwMpkzwEk50e/Empathy-Map---Quick-Commerce-Grocery-Shoppers?node-id=0-1&p=f&t=vpB1zPnVRDcHxhOl-0))
-
-> Replace the link above with your complete Figma project URL before publishing.
+[View the Empathy Map — Quick-Connect Project on Figma](https://www.figma.com/design/ioihttMUPWmwMpkzwEk50e/Empathy-Map---Quick-Commerce-Grocery-Shoppers?node-id=0-1&p=f&t=vpB1zPnVRDcHxhOl-0)
 
 ## 📚 Learning Outcomes
 
